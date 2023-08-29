@@ -1,5 +1,7 @@
 # API-Brasil-Bitcoin
 
+Base URL: https://higher-solucoes-backend.herokuapp.com
+
 ## (POST) /brasilBitcoinAuth
 body:
 ```
