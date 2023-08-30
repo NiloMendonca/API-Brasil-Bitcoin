@@ -187,15 +187,6 @@ headers:
           token: 'access_token'
 	}
 ```
-
-body: 
-```
-	{
-	  "login": "29519837000123",
-	  "password": "4$gt%12bHJ"
-	}
-```
-
 return:
 ```
 {
